@@ -1,1 +1,1 @@
-# Annotated example of a ```do while``` loop 
+# Annotated guide to a ```do while``` loop 
